@@ -1,0 +1,13 @@
+mar. 23 mai 2023 15:38:37 CEST active-response/bin/restart.sh agent    
+mar. 30 mai 2023 12:23:12 CEST active-response/bin/restart.sh agent    
+2023/05/30 12:29:13 active-response/bin/remove-threat.sh: {"version":1,"origin":{"name":"node01","module":"wazuh-execd"},"command":"add","parameters":{"extra_args":[],"alert":{"timestamp":"2023-05-30T10:29:13.706+0000","rule":{"level":12,"description":"VirusTotal: Alert - /root/eicar.com - 65 engines detected this file","id":"87105","mitre":{"id":["T1203"],"tactic":["Execution"],"technique":["Exploitation for Client Execution"]},"firedtimes":1,"mail":true,"groups":["virustotal"],"pci_dss":["10.6.1","11.4"],"gdpr":["IV_35.7.d"]},"agent":{"id":"001","name":"ana","ip":"130.190.117.33"},"manager":{"name":"wazuh.manager"},"id":"1685442553.19223","decoder":{"name":"json"},"data":{"virustotal":{"found":"1","malicious":"1","source":{"alert_id":"1685442551.17299","file":"/root/eicar.com","md5":"44d88612fea8a8f36de82e1278abb02f","sha1":"3395856ce81f2b7382dee72602f798b642f14140"},"sha1":"3395856ce81f2b7382dee72602f798b642f14140","scan_date":"2023-05-30 08:23:13","positives":"65","total":"66","permalink":"https://www.virustotal.com/gui/file/275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f/detection/f-275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f-1685434993"},"integration":"virustotal"},"location":"virustotal"},"program":"active-response/bin/remove-threat.sh"}} Successfully removed threat
+jeu. 01 juin 2023 13:20:57 CEST active-response/bin/restart.sh agent    
+jeu. 01 juin 2023 15:44:02 CEST active-response/bin/restart.sh agent    
+jeu. 01 juin 2023 16:43:54 CEST active-response/bin/restart.sh agent    
+lun. 12 juin 2023 10:29:12 CEST active-response/bin/restart.sh agent    
+lun. 12 juin 2023 12:48:39 CEST active-response/bin/restart.sh agent    
+mar. 20 juin 2023 18:32:37 CEST active-response/bin/restart.sh agent    
+mar. 20 juin 2023 21:34:58 CEST active-response/bin/restart.sh agent    
+jeu. 22 juin 2023 15:39:48 CEST active-response/bin/restart.sh agent    
+ven. 23 juin 2023 10:22:07 CEST active-response/bin/restart.sh agent    
+ven. 23 juin 2023 15:26:52 CEST active-response/bin/restart.sh agent    

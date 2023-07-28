@@ -1,0 +1,268 @@
+{
+	"global":	{
+		"start":	"2023-07-28 15:52:23",
+		"end":	"2023-07-28 17:12:23",
+		"files":	[{
+				"location":	"last -n 20",
+				"events":	14,
+				"bytes":	21349,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"process_listing",
+				"events":	480,
+				"bytes":	15012079,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/dpkg.log",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/ossec/logs/active-responses.log",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/audit/audit.log",
+				"events":	193,
+				"bytes":	50095,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/syslog",
+				"events":	1995,
+				"bytes":	272915,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/auth.log",
+				"events":	48,
+				"bytes":	5953,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"state of rc_local service",
+				"events":	27,
+				"bytes":	1431,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/kern.log",
+				"events":	19,
+				"bytes":	2168,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"memory_metrics",
+				"events":	1,
+				"bytes":	55,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"disk_metrics",
+				"events":	1,
+				"bytes":	49,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"netstat listening ports",
+				"events":	14,
+				"bytes":	15344,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/apache2/access.log",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"general_health_metrics",
+				"events":	1,
+				"bytes":	53,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"df -P",
+				"events":	139,
+				"bytes":	15908,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"load_average_metrics",
+				"events":	1,
+				"bytes":	56,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}]
+	},
+	"interval":	{
+		"start":	"2023-07-28 17:11:23",
+		"end":	"2023-07-28 17:12:23",
+		"files":	[{
+				"location":	"last -n 20",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"process_listing",
+				"events":	6,
+				"bytes":	193576,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/dpkg.log",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/ossec/logs/active-responses.log",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/audit/audit.log",
+				"events":	4,
+				"bytes":	1109,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/syslog",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/auth.log",
+				"events":	2,
+				"bytes":	196,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"state of rc_local service",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/kern.log",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"memory_metrics",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"disk_metrics",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"netstat listening ports",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"/var/log/apache2/access.log",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"general_health_metrics",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"df -P",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}, {
+				"location":	"load_average_metrics",
+				"events":	0,
+				"bytes":	0,
+				"targets":	[{
+						"name":	"agent",
+						"drops":	0
+					}]
+			}]
+	}
+}
