@@ -1,0 +1,5 @@
+insmod:
+rmmod:
+modprobe:
+crontab:
+uname:
